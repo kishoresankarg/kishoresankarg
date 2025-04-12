@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kishore;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE_Student-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CSE Student"/>
-  <img src="https://img.shields.io/badge/Developer-FF5722?style=for-the-badge&logo=codecademy&logoColor=white" alt="Developer"/>
-  <img src="https://img.shields.io/badge/Problem_Solver-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solver"/>
-</p>
-
 <!-- About Me Section -->
 ## 🧠 About Me
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
@@ -49,24 +42,26 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kishore-sankar-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sankar_g/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
-  <a href="mailto:kishoresankar423@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kishoresankar423@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishore-sankar-g&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?kishoresankarg=kishore-sankar-g&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <!-- Activity Graph -->
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kishore-sankar-g&theme=github" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?kishoresankarg=kishore-sankar-g&theme=github" alt="Activity Graph"/>
 </details>
