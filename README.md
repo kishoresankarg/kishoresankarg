@@ -35,7 +35,7 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kishore-sankar-g&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?kishoresankarg=kishore-sankar-g&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-sankar-g&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
