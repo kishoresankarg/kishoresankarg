@@ -54,9 +54,4 @@
   <img src="https://komarev.com/ghpvc/?username=kishore-sankar-g&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<!-- Activity Graph -->
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?kishoresankarg=kishore-sankar-g&theme=github" alt="Activity Graph"/>
-</details>
+
