@@ -25,12 +25,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?kishoresankarg=kishore-sankar-g&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?kishoresankarg=kishore-sankar-g&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 
 <!-- LeetCode Stats -->
 ## 🏆 LeetCode Stats
@@ -56,7 +51,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?kishoresankarg=kishore-sankar-g&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kishore-sankar-g&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <!-- Activity Graph -->
